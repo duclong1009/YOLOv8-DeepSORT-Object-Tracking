@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="758db995-aa80-44d1-90ac-0ce50f77e266" name="Changes" comment="" />
+    <list default="true" id="758db995-aa80-44d1-90ac-0ce50f77e266" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/configs/deep_sort.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/checkpoint/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/feature_extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/original_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/train.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/deep_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort - Copy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort - Copy/iou_matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort - Copy/kalman_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort - Copy/linear_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort - Copy/nn_matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort - Copy/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/iou_matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/kalman_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/linear_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/nn_matching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/track.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/deep_sort/sort/tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/asserts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/io.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/json_logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/yolo/v8/segment/deep_sort_pytorch/utils/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/figure1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/figure2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking/ultralytics/figure_speed.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +61,16 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2dartSaQs2PxfNkGCrOzOLMUW09" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -43,5 +93,8 @@
       <updated>1710257245454</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
