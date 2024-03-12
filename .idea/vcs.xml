@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/YOLOv8_Segmentation_DeepSORT_Object_Tracking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/YOLOv8-DeepSORT-Object-Tracking" vcs="Git" />
   </component>
 </project>
